@@ -1,4 +1,4 @@
-# hw5_quiz_app
+# quizz_app_flutter
 
 A new Flutter project.
 
